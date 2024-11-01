@@ -1,0 +1,19 @@
+.ameba-whats-new p,
+.ameba-whats-new a,
+.ameba-whats-new ul,
+.ameba-whats-new ul li,
+.ameba-whats-new ol,
+.ameba-whats-new ol li {
+    margin: initial;
+    padding: initial;
+    text-decoration: initial;
+}
+
+.ameba-whats-new-date {
+    text-align: right;
+}
+
+input[type="text"] {
+    height: 28px;
+    line-height: 2;
+}

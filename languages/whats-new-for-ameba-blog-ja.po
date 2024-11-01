@@ -1,0 +1,55 @@
+# Copyright (C) 2018 What's New for Ameba blog
+# This file is distributed under the same license as the What's New for Ameba blog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: What's New for Ameba blog 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ameba-whats-new\n"
+"POT-Creation-Date: 2018-06-24 05:30:02+09:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-08-01 00:00+09:00\n"
+"Last-Translator: koyacode <wordpress@it-soudan.com>\n"
+"Language-Team: koyacode <wordpress@it-soudan.com>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "What's New for Ameba blog"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://it-soudan.com/it/whats-new-for-ameba-blog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Show What's new list of Ameba blog"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "koyacode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://it-soudan.com/"
+msgstr ""
+
+msgid "Ameba ID"
+msgstr "アメーバID"
+
+msgid "Save"
+msgstr "変更を保存"
+
+msgid "test"
+msgstr "テスト"
+
+msgid "mandatory"
+msgstr "必須"
+
+msgid "Item number"
+msgstr "アイテム数"
+
+msgid "Excerpt length"
+msgstr "抜粋の長さ"
+
+msgid "There is no post."
+msgstr "記事がありません。"
+
